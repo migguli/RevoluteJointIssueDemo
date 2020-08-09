@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "RevoluteJointIssueDemo",
+  "id": "94d2bf9c-7331-4b24-9ebc-d8e060c1ce4e",
+  "version": "2.4.1",
+  "isNew": false
+}
